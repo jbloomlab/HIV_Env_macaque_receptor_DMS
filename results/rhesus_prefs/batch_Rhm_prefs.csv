@@ -1,0 +1,3 @@
+group,name,pre,post,errpre,errpost
+rhesus,replicate-1,mutDNA-1,rhm-1,wt-DNA,wt-virus
+rhesus,replicate-2,mutDNA-2,rhm-2,wt-DNA,wt-virus

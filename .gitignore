@@ -1,0 +1,17 @@
+.*
+!.gitignore
+
+*.sbatch
+*.out
+
+data
+results/*
+!results/*codoncounts
+results/*codoncounts/*
+!results/*codoncounts/*codoncounts.csv
+!results/*_prefs
+results/*_prefs/*
+!results/*_prefs/*.csv
+!results/*mut_effects
+results/*mut_effects/*
+!results/*mut_effects/*.csv

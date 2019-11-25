@@ -1,0 +1,10 @@
+name,R1,R2
+HU-mut1, Hu-Mut-1_ATGTCA_L001_R1_all_reads.fastq.gz, Hu-Mut-1_ATGTCA_L001_R2_all_reads.fastq.gz
+HU-mut2, Hu-Mut-2_GTCCGC_L001_R1_all_reads.fastq.gz, Hu-Mut-2_GTCCGC_L001_R2_all_reads.fastq.gz
+RHM-mut1, Rhm-Mut-1_GTGGCC_L001_R1_all_reads.fastq.gz, Rhm-Mut-1_GTGGCC_L001_R2_all_reads.fastq.gz
+RHM-mut2, Rhm-Mut-2_GTTTCG_L001_R1_all_reads.fastq.gz, Rhm-Mut-2_GTTTCG_L001_R2_all_reads.fastq.gz
+DNA-mut1, DNA-Mut-1_ATTCCT_L001_R1_all_reads.fastq.gz, DNA-Mut-2_ATTCCT_L001_R1_all_reads.fastq.gz
+DNA-mut2, DNA-Mut-2_CAACTA_L001_R1_all_reads.fastq.gz, DNA-Mut-2_CAACTA_L001_R2_all_reads.fastq.gz
+WT-inf, wt-inf1_GAGTGG_L001_R1_all_reads.fastq.gz, wt-inf1_GAGTGG_L001_R2_all_reads.fastq.gz
+WT-DNA, AD_wt-DNA_R1.fastq.gz, AD_wt-DNA_R2.fastq.gz
+
