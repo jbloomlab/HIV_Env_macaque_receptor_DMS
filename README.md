@@ -4,3 +4,5 @@ This repository contains the computational analyses of Jeremy Roop's deep mutati
 It was copied by Jesse Bloom from Jeremy's computational notebooks, and made into a standalone repository.
 
 The analysis and results are shown in the Jupyter notebook [analysis_notebook.ipynb](analysis_notebook.ipynb).
+
+Key results data files are in the [./results/](results) subdirectory.
